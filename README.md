@@ -1,0 +1,2 @@
+# lightsail
+Manage Lightsail setups.
